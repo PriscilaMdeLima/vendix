@@ -54,3 +54,4 @@ This project is licensed under the MIT License.
 - [Mariana Ferreira](https://github.com/mwndrly)
 - [Priscila Maciel](https://github.com/PriscilaMdeLima)
 - [Thaissa Fernandes](https://github.com/tfsLua)
+- @joaosanli
