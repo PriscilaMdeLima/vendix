@@ -1,5 +1,5 @@
 # vendix
-This is a simple sales management system implemented in Java. It allows users to perform CRUD operations on products via a console-based interface.
+This is a simple sales management system implemented in Java. It allows users to perform CRUD operations on products via a console-based interface
 
 ## Features
 - Add new products
